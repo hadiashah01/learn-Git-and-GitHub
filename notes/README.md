@@ -31,6 +31,10 @@ If a markdown file is named differently, for example:
 
 then GitHub **will not display it automatically**.  
 The user must manually click the file to read it.
+| Method | Where Created | Tools Used |
+|------|--------------|-----------|
+| Local Git Repository | Local Computer | Git CLI |
+| GitHub Repository | GitHub Website | GitHub UI |
 
 ### ✅ Best Practice
 Always name the main documentation file as `README.md` so that it is visible by default.
