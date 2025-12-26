@@ -1,6 +1,8 @@
-## Screenshot related to Local Git repository creation.
-### Screenshot
-![Local Git Screenshot](git%20screenshot.jpeg)
+## Git Repository Creation Screenshots
 
+### 1. Git Initialization
+![Git Init Screenshot](git%20init.jpeg)
 
+### 2. Git Status Check
+![Git Status Screenshot](git%20status.jpeg)
 
