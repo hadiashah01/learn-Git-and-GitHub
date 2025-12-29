@@ -118,7 +118,7 @@ Displays remote repository URLs.
 
 **Command:**
 
-![Git Push setup stream Screenshot](git%20push%20set-uptream.jpeg)
+![Git Push setup stream Screenshot](git%20push%20set-upstream.jpeg)
 
 
 **Description:**
