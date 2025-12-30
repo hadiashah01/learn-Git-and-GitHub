@@ -11,7 +11,7 @@ It includes structured notes, practical Git commands, and screenshots to demonst
 - [GitHub Basics](#-github-basics)
 - [Repository Structure](#-repository-structure)
 - [Screenshots](#-screenshots)
-- [Best Practices](#-best-practices) 
+- [Best Practices](#best-practices) 
 - [Motivation](#-motivation)
 - [References](#-references)
 
@@ -87,8 +87,8 @@ Cropped screenshots are added to clearly show:
 - GitHub UI elements and important actions
 
 ---
-<a id="-best-practices"></a>
-## ⚠️ Best Practices
+
+## Best Practices
 
 - Always use clear and self-descriptive commit messages
 - Commit small, atomic changes instead of pushing everything at once
