@@ -28,7 +28,7 @@ Displays the current state of the working directory and staging area.
 
 **Command:**
 
-![Git Status Screenshot](git%20add.jpg)
+![Git Add Screenshot](git%20add.jpg)
 
 
 **Description:**
@@ -39,7 +39,7 @@ Stages all modified and new files for commit.
 
 **Command:**
 
-![Git Status Screenshot](git%20commit.jpeg)
+![Git Commit Screenshot](git%20commit.jpeg)
 
 
 **Description:**
@@ -50,7 +50,7 @@ Creates a snapshot of staged changes.
 
 **Command:**
 
-![Git Status Screenshot](git%20push.jpeg)
+![Git Push Screenshot](git%20push.jpeg)
 
 
 Description:
@@ -64,7 +64,7 @@ Uploads local commits to the remote repository.
 
 **Command:**
 
-![Git Status Screenshot](git%20config%20username.jpeg)
+![Git Configure Username Screenshot](git%20config%20username.jpeg)
 
 
 **Description:**
@@ -75,7 +75,7 @@ Sets the Git username globally.
 
 **Command:**
 
-![Git Status Screenshot](git%20config%20usergmail.jpeg)
+![Git Configure Email Screenshot](git%20config%20usergmail.jpeg)
 
 
 **Description:**
@@ -85,7 +85,7 @@ Sets the Git email globally.
 ## 8. View Commit History
 
 **Command:**
-![Git Status Screenshot](git%20log.jpeg)
+![Git log Screenshot](git%20log.jpeg)
 
 
 
@@ -96,7 +96,7 @@ Shows commit history of the repository.
 
 **Command:**
 
-![Git Status Screenshot](git%20remote%20add.jpeg)
+![Git Remote Add Screenshot](git%20remote%20add.jpeg)
 
 
 **Description:**
@@ -107,7 +107,7 @@ Connects the local repository with a remote GitHub repository.
 
 **Command:**
 
-![Git Status Screenshot](git%20remote%20-v.jpeg)
+![Git View Remote Screenshot](git%20remote%20-v.jpeg)
 
 
 **Description:**
@@ -129,7 +129,7 @@ Sets upstream branch and pushes code.
 
 **Command:**
 
-![Git Status Screenshot](git%20pull.jpeg)
+![Git Pull Screenshot](git%20pull.jpeg)
 
 
 
@@ -141,7 +141,7 @@ Fetches and merges changes from the remote repository.
 
 **Command:**
 
-![Git Status Screenshot](git%20clone.jpeg)
+![Git Clone Screenshot](git%20clone.jpeg)
 
 
 **Description:**
@@ -164,7 +164,7 @@ Removes a file from the repository and stages the change.
 
 **Command:**
 
-![Git Status Screenshot](git%20remote%20rm.jpeg)
+![Git Remove Remote Screenshot](git%20remote%20rm.jpeg)
 
 
 **Description:**
@@ -175,7 +175,7 @@ Deletes the connection with the remote repository.
 
 **Command:**
 
-![Git Status Screenshot](git%20remote.jpeg)
+![Git Remote List Screenshot](git%20remote.jpeg)
 
 
 
