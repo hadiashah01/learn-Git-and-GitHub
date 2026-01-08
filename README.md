@@ -50,13 +50,10 @@ This repository demonstrates GitHub concepts such as:
 - Navigating the GitHub interface
 
 
-## 📌 Repository Structure (Overview)
+## 📌 Repository Structure 
 
 
-
-## 📁 Repository Structure
-
-```text
+```bash
 learn-Git-and-GitHub/
 ├── README.md
 ├── notes/
