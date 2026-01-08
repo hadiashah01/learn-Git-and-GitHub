@@ -31,12 +31,14 @@ This repository was created to:
 
 | Command       | Purpose                     | Screenshot Links |
 |--------------|-----------------------------|----------------|
-| `git init`   | Initialize a repository     | [Git Init Screenshot](/screenshots/Git/git%20init.jpeg) |
-| `git status` | Check repository status     | [Git Status Screenshot](/screenshots/Git/git%20status.jpeg) |
-| `git add`    | Stage changes               |[Git Add Screenshot](/screenshots/Git/git%20add.jpg) |
-| `git commit` | Save changes                | [Git Commit Screenshot](/screenshots/Git/git%20commit.jpeg)|
-| `git push`   | Push to remote repository   | [Git Push Screenshot](/screenshots/Git/git%20push.jpeg) |
-| `git clone`  | Clone a repository          | [Git Clone Screenshot](/screenshots/Git/git%20clone.jpeg) 
+| `git init`   | Initialize a repository     | [Git Init Screenshot](/screenshots/Git/git-init.jpeg) |
+| `git status` | Check repository status     | [Git Status Screenshot](/screenshots/Git/git-status.jpeg) |
+| `git add`    | Stage changes               |[Git Add Screenshot](/screenshots/Git/git-add.jpg) |
+| `git commit` | Save changes                | [Git Commit Screenshot](/screenshots/Git/git-commit.jpeg)|
+| `git push`   | Push to remote repository   | [Git Push Screenshot](/screenshots/Git/git-push.jpeg) |
+| `git clone`  | Clone a repository          | [Git Clone Screenshot](/screenshots/Git/git-clone.jpeg)|
+| `git pull`   | Fetch Fetch and merge changes from remote repositoryn repository | [Git Pull Screenshot](screenshots\Git\git-pull.jpeg)|
+
 
 
 
@@ -62,19 +64,7 @@ learn-Git-and-GitHub/
 │   └── learn-GitHub.md
 └── screenshots/
     ├── Git/
-    │   ├── git-init.png
-    │   ├── git-status.png
-    │   ├── git-add.png
-    │   ├── git-commit.png
-    │   ├── git-log.png
-    │   ├── git-push.png
-    │   └── git-clone.png
-    └── GitHub/
-        ├── new-repository.png
-        ├── view-commits.png
-        ├── view-commit.png
-        └── copy-clone-url.png
-
+    └── GitHub/   
  ```
 
 ## 🖼 Screenshots
